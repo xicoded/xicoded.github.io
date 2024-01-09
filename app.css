@@ -6,7 +6,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(img/fyoshu.png);
+  background-image:radial-gradient(rgba(5,5,8,0.5), rgba(10,95,43,0.5));
   background-position: center;
   background-size: cover;
   position: relative;
@@ -30,4 +30,8 @@ nav img {
   display: inline-block;
   padding: 8px 12px;
   position: relative;
+}
+.nav-links ul li a{
+  color: rgb(125, 90, 125);
+  text-decoration: none;
 }
