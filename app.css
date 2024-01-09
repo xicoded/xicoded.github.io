@@ -1,33 +1,14 @@
+* {
+  margin: 0; 
+  padding: 0;
+}
 
-h1 {
-    color: lavenderblush;
-    text-shadow: 2px 2px 4px black;
-    text-align: center;
-    margin: 20px;
-  }
+.header {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradiant(rgba(10,3,4,2), rgba(10,3,4,2)),url(img/fyoshu.png);
+  background-position: center;
+  background-size: cover;
 
-  h2 {
-    color: rosybrown;
-  }
+}
 
-  body {
-    margin: 20px;
-    background-color: rgb(233, 220, 237);
-  }
-
-  #about-me {
-    text-align: center;
-
-    background-color: rgb(177, 143, 180);
-    border: 7px;
-    border-style: dotted;
-    border-radius: 20px;
-    border-color: rgb(138, 92, 141);
-    padding: 30px;
-  }
-
-  #flower-img {
-    border-style: dashed;
-    border-radius: 20px;
-    border-color: rgb(90, 55, 97);
-  }
