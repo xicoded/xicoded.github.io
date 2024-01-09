@@ -9,6 +9,7 @@
   background-image: linear-gradiant(rgba(51, 12, 61, 0.7), rgba(51, 12, 61, 0.7)),url(img/fyoshu.png);
   background-position: center;
   background-size: cover;
+  position: relative;
 
 }
 
