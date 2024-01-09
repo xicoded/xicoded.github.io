@@ -6,7 +6,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image:radial-gradient(rgba(5,5,8,0.5), rgba(10,95,43,0.5));
+  background-image:radial-gradient(rgba(155, 100, 155, 0.5), rgba(233, 221, 241, 0.5));
   background-position: center;
   background-size: cover;
   position: relative;
