@@ -34,4 +34,5 @@ nav img {
 .nav-links ul li a{
   color: rgb(125, 90, 125);
   text-decoration: none;
+  font-size: 15px;
 }
